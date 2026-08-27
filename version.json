@@ -1,1 +1,5 @@
-
+{
+  "version": "1.10",
+  "url": "https://raw.githubusercontent.com/alzaubi/Jaecoo/main/SmartSplit-Jaecoo-J8-v1.10.apk",
+  "notes": "Jaecoo J8 interface update with English and Arabic layouts, J8 vehicle identity, app uninstall control, dashboard data controls, and cluster interface improvements."
+}
